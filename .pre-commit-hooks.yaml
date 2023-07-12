@@ -1,0 +1,6 @@
+  - id: checkstyle-java
+    name: checkstyle-java
+    description: ''
+    entry: ./.scripts/checkstyle-pre-commit.sh
+    language: script
+    require_serial: false
