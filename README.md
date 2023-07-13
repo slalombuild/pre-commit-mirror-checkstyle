@@ -9,7 +9,7 @@ Add the following code to your repo's `.pre-commit-config.yaml`
 > `- hooks:`  
 `- id: checkstyle-java`  
 `repo: https://github.com/rgraue/pre-commit-mirror-checkstyle`  
-`rev: v0.1.15`
+`rev: v0.1.1`
 
 ## Options
 
